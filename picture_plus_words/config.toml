@@ -1,0 +1,12 @@
+templatePicture = "1.png" #模板图片
+font = "msyh.ttf" #字体文件
+fontSize = 40 #字体大小
+fontColorR = 0 #字体颜色 R
+fontColorG = 0 #字体颜色 G
+fontColorB = 0 #字体颜色 B
+x = 193 #字体坐标 X
+ax = 0 #字体坐标偏移 ax
+y = 380 #字体坐标 Y
+ay = 0.5 #字体坐标偏移 ay
+prefix = "" #文字前缀
+suffix = "" #文字后缀
